@@ -105,7 +105,7 @@ const Footer = () => {
         . The code is available at{" "}
         <a
           className="hover:text-neutral-100 dark:hover:text-neutral-900"
-          href="https://github.com/mattgrah-am/mattgrah.am_web"
+          href="https://github.com/mattgrah-am/portfolio"
           target="_blank"
           rel="noopener noreferrer"
         >
